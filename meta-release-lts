@@ -72,11 +72,11 @@ Version: 18.04.6 LTS
 Date: Thu, 26 April 2018 18:04:00 UTC
 Supported: 1
 Description: This is the 18.04.6 LTS release
-Release-File: http://us.archive.ubuntu.com/ubuntu/dists/bionic/Release
-ReleaseNotes: http://us.archive.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
-ReleaseNotesHtml: http://us.archive.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
-UpgradeTool: http://us.archive.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/bionic.tar.gz
-UpgradeToolSignature: http://us.archive.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/bionic.tar.gz.gpg
+Release-File: http://old-releases.ubuntu.com/ubuntu/dists/bionic/Release
+ReleaseNotes: hhttp://old-releases.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: hhttp://old-releases.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://old-releases.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/bionic.tar.gz
+UpgradeToolSignature: http://old-releases.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/bionic.tar.gz.gpg
 
 Dist: focal
 Name: Focal Fossa
